@@ -1,6 +1,7 @@
 ---
 title: Сборка Angular приложений и другие ресурсы
-slug: Learn_web_development/Core/Frameworks_libraries/Angular_building
+slug: conflicting/Learn_web_development/Core/Frameworks_libraries
+original_slug: Learn_web_development/Core/Frameworks_libraries/Angular_building
 ---
 
 {{LearnSidebar}}{{PreviousMenu("Learn_web_development/Core/Frameworks_libraries/Angular_filtering", "Learn_web_development/Core/Frameworks_libraries")}}
