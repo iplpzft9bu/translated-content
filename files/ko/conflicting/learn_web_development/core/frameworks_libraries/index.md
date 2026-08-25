@@ -1,7 +1,7 @@
 ---
 title: "Svelte의 동적인 동작: 변수와 props 작용"
-slug: Learn_web_development/Core/Frameworks_libraries/Svelte_variables_props
-original_slug: Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_variables_props
+slug: conflicting/Learn_web_development/Core/Frameworks_libraries
+original_slug: Learn_web_development/Core/Frameworks_libraries/Svelte_variables_props
 l10n:
   sourceCommit: 4def230f85756724b59660e3cd9de363db724ef8
 ---
